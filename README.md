@@ -8,7 +8,7 @@ estudos aplicados nesse projeto
 + Semantica no HTML
 + Otimizar css economizando linhas de codigo
 + Usei o flaxbox em diversas situações que antes sofreria para montar
-+ Tusei o grid para separar os numeros
++ usei o grid para separar os numeros
 
 Foto do projeto 
 
